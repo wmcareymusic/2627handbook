@@ -300,7 +300,7 @@ img { max-width: 100%; display: block; }
 .guide {
   background: var(--ink);
   color: #f4f1ed;
-  padding-block: 1.75rem;
+  padding-block: 0.75rem;
 }
 .guide h2 { color: #fff; font-size: var(--step-2); margin-bottom: 0.45rem; }
 .guide .guide-sub { color: #b9b1a9; font-size: 0.88rem; margin: 0; }
