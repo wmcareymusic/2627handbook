@@ -300,7 +300,8 @@ img { max-width: 100%; display: block; }
 .guide {
   background: var(--ink);
   color: #f4f1ed;
-  padding-block: 0.25rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 }
 .guide h2 { color: #fff; font-size: var(--step-2); margin-bottom: 0.45rem; }
 .guide .guide-sub { color: #b9b1a9; font-size: 0.88rem; margin: 0; }
@@ -333,7 +334,9 @@ img { max-width: 100%; display: block; }
     gap: 2rem;
     align-items: start;
   }
-  .guide { padding-block: 0.25rem; }
+  .guide { 
+      padding-top: 0.75rem;
+      padding-bottom: 0.75rem;
   .guide h2 { font-size: 1.4rem; line-height: 1.15; }
   .guide .guide-sub { max-width: 31rem; font-size: 0.82rem; }
   .guide-suggest { margin-top: 0.75rem; }
