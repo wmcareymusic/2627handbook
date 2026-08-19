@@ -92,7 +92,7 @@ window.HANDBOOK = {
    "secTitle": "Degree Programs",
    "title": "Degree Programs",
    "page": 2,
-   "summary": "Undergraduates can pursue the BA in Music (broader, pairs well with an outside minor), the Bachelor of Music in Music Education, Performance, or Music Therapy, or the Bachelor of Science with a concentration in Worship Leadership or Worship Technology. Graduate options are the fully online M.M.E., M.M.W.S., and Doctor of Arts in Music. Performance degrees are offered in guitar, piano, and voice. For the exact course lists, use the official University Catalog - this handbook does not replace it.",
+   "summary": "Undergraduates can pursue the BA in Music (broader, pairs well with an outside minor), the Bachelor of Music in Music Education, Performance, or Music Therapy, or the Bachelor of Science with a concentration in Worship Leadership or Worship Technology. Graduate options are the fully online M.M.E., M.M.W.S., and Doctor of Arts in Music. Performance degrees are offered in guitar, piano, and voice. For the exact course lists, use the official University Catalog, this handbook does not replace it.",
    "paras": [
     "Undergraduate Degrees",
     "Bachelor of Arts in Music",
@@ -126,7 +126,7 @@ window.HANDBOOK = {
    "secTitle": "Admission & Academic Benchmarks",
    "title": "Admission to Music Curricula",
    "page": 4,
-   "summary": "Plan on an audition before you are admitted, and a music theory placement exam once you arrive; every new student enrolls in Freshman Theory I and starts either in week 1 or week 9 depending on the results. Transfer credit is evaluated by the Registrar's Office, and theory and class piano only transfer with a grade of B or higher. Transfer students must pass an upper-level examination during their first semester. Graduate applicants need a 2.75 GPA over their last 60 hours; doctoral applicants need a 3.0 master's GPA, two recommendation letters, a resume, and a 1,000- to 1,500-word writing sample.",
+   "summary": "Plan on an audition before you are admitted, and a music theory placement exam once you arrive; every new student enrolls in Freshman Theory I and starts either in week 1 or week 9 depending on the results. Transfer credit is evaluated by the Registrar's Office, and theory and class piano only transfer with a grade of B or higher. Transfer students must pass an upper-level examination during their first semester. Graduate applicants need a 2.75 GPA over their last 60 hours; doctoral applicants need a 3.0 master's GPA, two recommendation letters, a resume, and a 1,000 to 1,500 word writing sample.",
    "paras": [
     "Undergraduate Admission",
     "Music Audition",
@@ -141,7 +141,7 @@ window.HANDBOOK = {
     "Worship Studies program requirements specific to M.M.W.S. Prior to admission, students must complete an admission application and submit an essay of no less than 500 words describing learning and professional goals.",
     "Requirements for graduation are found in the graduate catalog.",
     "Doctoral Admission",
-    "Doctoral applicants must hold a master’s degree in music (or equivalent) with a cumulative grade point average of 3.0 or higher on all master’s level coursework. Applicants must submit two letters of recommendation from individuals familiar with the applicant’s professional and/or educational work, a resume’ (or curriculum vita), and a 1,000- to 1,500-word scholarly writing sample that describes the candidate’s interest in pursuing a terminal degree and an issue related to the candidate’s intended emphasis area. Accepted applicants must complete qualifying exams in music theory and music history.",
+    "Doctoral applicants must hold a master’s degree in music (or equivalent) with a cumulative grade point average of 3.0 or higher on all master’s level coursework. Applicants must submit two letters of recommendation from individuals familiar with the applicant’s professional and/or educational work, a resume (or curriculum vita), and a 1,000 to 1,500 word scholarly writing sample that describes the candidate’s interest in pursuing a terminal degree and an issue related to the candidate’s intended emphasis area. Accepted applicants must complete qualifying exams in music theory and music history.",
     "Requirements for graduation are found in the graduate catalog."
    ],
    "keywords": "audition theory placement transfer credits graduate doctoral GPA praxis essay"
@@ -152,7 +152,7 @@ window.HANDBOOK = {
    "secTitle": "Admission & Academic Benchmarks",
    "title": "Upper-Level Examinations",
    "page": 5,
-   "summary": "This is the gate to 300- and 400-level music courses. Register for it after you finish Sophomore Theory (MUT 262) or Commercial Theory (MUT 265) and your piano proficiencies. The exam is a ten-minute recital in your principal area - memorized for all voice concentrations, and check with your applied instructor otherwise. Instrumentalists also submit an unedited scales-and-arpeggios recording in week 10, with one retake in week 12. Until you pass every component, you stay registered at the sophomore applied level and cannot register for upper-level music courses.",
+   "summary": "This is the gate to 300 and 400 level music courses. Register for it after you finish Sophomore Theory (MUT 262) or Commercial Theory (MUT 265) and your piano proficiencies. The exam is a ten-minute recital in your principal area memorized for all voice concentrations, and check with your applied instructor otherwise. Instrumentalists also submit an unedited scales and arpeggios recording in week 10, with one retake in week 12. Until you pass every component, you stay registered at the sophomore applied level and cannot register for upper-level music courses.",
    "paras": [
     "Upper-level coursework is designated by a course code in the 300-499 range. To determine eligibility for Upper-Level music study, all students should register for an examination in their applied concentration after the successful completion of Sophomore Theory (MUT 262) or Commercial Theory (MUT 265) and Piano Proficiencies. The exam will consist of a ten-minute recital in the student’s principal performing area. For all voice concentrations, the program must be performed from memory. Other majors and concentrations should consult their applied instructor regarding memorization requirements.",
     "Instrumentalists must submit an unedited recording of the 12 major and 12 natural minor scales with arpeggios to the instrumental coordinator during week 10 of the semester they intend to do their Upper-Level Exam. If the scales are not passed in week 10, then another recording may be made in week 12. If the scales are not passed in week 12, then the student will fail their Upper-Level Exam and be required to attempt it again the next semester.",
@@ -196,12 +196,12 @@ window.HANDBOOK = {
    "secTitle": "Performance Standards",
    "title": "Applied Study (Private Lessons)",
    "page": 7,
-   "summary": "A $60 general music fee is charged per applied course. Non-major lessons are 30 minutes for one hour of credit; major lessons on your primary instrument or voice part are 60 minutes for two hours. You are expected to perform on a General Recital each semester, and the sign-up deadline is 4:00 pm Wednesday before a Friday performance - with title, composer, composer's dates, collaborative pianist, and length submitted to the Music Office. Studio recitals, studio classes, and chamber groups are assigned by your applied professor.",
+   "summary": "A $60 general music fee is charged per applied course. Non-major lessons are 30 minutes for one hour of credit; major lessons on your primary instrument or voice part are 60 minutes for two hours. You are expected to perform on a General Recital each semester, and the sign-up deadline is 4:00 pm Wednesday before a Friday performance with title, composer, composer's dates, collaborative pianist, and length submitted to the Music Office. Studio recitals, studio classes, and chamber groups are assigned by your applied professor.",
    "paras": [
     "A general music fee of $60 is assessed per applied music course in the Business Office.",
     "There are two types of applied lessons:",
-    "Non-Major - for students who desire elective applied lessons or are taking applied lessons leading to a proficiency exam. These lessons are 30 minutes in length. (1-semester hour)",
-    "Major - for Music Majors on their primary/principal voice part or instrument. These lessons are 60 minutes in length. (2-semester hours)",
+    "Non-Major, for students who desire elective applied lessons or are taking applied lessons leading to a proficiency exam. These lessons are 30 minutes in length. (1-semester hour)",
+    "Major, for Music Majors on their primary/principal voice part or instrument. These lessons are 60 minutes in length. (2-semester hours)",
     "Students are expected to perform in a General Recital each semester in their applied concentration. The deadline for signing up for a General Recital performance is 4:00 pm Wednesday prior to the performance on Friday. Students must supply the Music Office with complete information including Title, Composer, Composer’s Birth and Death Dates, Collaborative Pianist, and Length of Piece. The Recital Class Sign-Up Mach form can be found at the following link: RECITAL CLASS SIGNUP",
     "Students are expected to participate in their individual studio recitals, classes, or chamber groups as assigned by their applied professor."
    ],
@@ -213,17 +213,17 @@ window.HANDBOOK = {
    "secTitle": "Performance Standards",
    "title": "Jury Requirements",
    "page": 9,
-   "summary": "Everyone in major applied music performs a jury every semester. You choose one piece and the panel asks for more from your repertoire list, so performance majors should be ready for several. Scale juries happen inside your weekly lesson on a set freshman-to-sophomore sequence. Dress code for juries, upper-level exams, and Recital Class is business dress - no jeans, no athletic shoes. Missing a jury without notifying your teacher in advance is an “F,” and an approved incomplete has to be finished by the end of week two of the next semester.",
+   "summary": "Everyone in major applied music performs a jury every semester. You choose one piece and the panel asks for more from your repertoire list, so performance majors should be ready for several. Scale juries happen inside your weekly lesson on a set freshman-to-sophomore sequence. Dress code for juries, upper-level exams, and Recital Class is business dress, no jeans, no athletic shoes. Missing a jury without notifying your teacher in advance is an F, and an approved incomplete has to be finished by the end of week two of the next semester.",
    "paras": [
     "All students enrolled in major applied music are required to perform an Applied Jury Examination each semester. Repertoire and memorization requirements are contained in each applied course’s syllabus. Each student will choose one piece, and the jury will request additional selections from the student’s repertoire list. Performance majors should expect to perform several selections.",
     "Scale juries will take place in applied lessons during the student’s weekly applied lesson in the following sequence:",
-    "Fall freshmen - 12 major scales with arpeggios",
-    "Spring freshmen - 12 natural minor scales with arpeggios",
-    "Fall sophomore - 12 harmonic minor scales with arpeggios",
-    "Spring sophomore - 12 melodic minor scales with arpeggios",
+    "Fall freshmen, 12 major scales with arpeggios",
+    "Spring freshmen, 12 natural minor scales with arpeggios",
+    "Fall sophomore, 12 harmonic minor scales with arpeggios",
+    "Spring sophomore, 12 melodic minor scales with arpeggios",
     "Transfer student scale jury requirements will be determined by the applied faculty",
     "Appropriate attire for performances (juries, Upper-Level exams, Recital Class, et al) is expected of all students and is as follows:",
-    "Men: slacks, dress shirts, and/or ties - with or without jackets",
+    "Men: slacks, dress shirts, and/or ties, with or without jackets",
     "Women: dress of moderate length or suitable slacks outfits",
     "No jeans or athletic shoes",
     "The final grade in applied music is determined by combining the jury grade with the professor’s evaluation of the student performance throughout the semester. Grading criteria for all music courses is contained in the course syllabus.",
@@ -241,10 +241,10 @@ window.HANDBOOK = {
    "summary": "Music education, BA, and music therapy students present one recital; performance majors present a junior and a senior recital. Before a junior recital you must have finished the Upper-Level Exam, all piano proficiencies, and Sophomore Theory. Clear the date with your applied teacher, advisor, and collaborative pianist, then reserve it in the Music Office. You must pass a recital hearing at least two weeks before the date and turn in your program at that hearing. Junior recitals are Thursdays at 6:00 pm and senior recitals Thursdays at 7:00 pm, with Tuesday and Monday slots opened as those fill. Setup and cleanup are your responsibility.",
    "paras": [
     "Students in the following degree programs are required to present recitals:",
-    "Music Education - senior recital of 25-30 minutes",
-    "Performance - junior recital of 25-30 minutes and a senior recital of 45-55 minutes",
-    "Music Therapy - junior recital of 25-30 minutes",
-    "BA in Music - senior recital of 25-30 minutes",
+    "Music Education, senior recital of 25-30 minutes",
+    "Performance, junior recital of 25-30 minutes and a senior recital of 45-55 minutes",
+    "Music Therapy, junior recital of 25-30 minutes",
+    "BA in Music, senior recital of 25-30 minutes",
     "Students must complete the Upper-Level Exam, ALL Piano Proficiencies, and Sophomore Theory before being allowed to present a junior recital. All required recitals must be done prior to MUE 496 (Music Education) or MTH 497 (Music Therapy).",
     "Non-degree recitals are encouraged. Scheduling will be based on availability.",
     "Process for Scheduling a Recital",
@@ -253,8 +253,8 @@ window.HANDBOOK = {
     "Please click the following link for the Recital Scheduling Form: SCHEDULING FORM",
     "Degree recitals cannot be performed until the student passes a recital hearing with the applied music faculty at least two weeks prior to the scheduled date of the recital. Recital programs must be submitted to the Music Office at the time of the recital hearing. Students are responsible for setting up the recital space and cleaning up following a recital.",
     "Recital Scheduling",
-    "Junior Recitals - Thursdays at 6:00 pm (when Thursdays are full, then Tuesdays at 6:00 pm are opened; if Tuesdays are full, then Mondays at 6:00 pm are opened)",
-    "Senior Recitals - Thursdays at 7:00 pm (when Thursdays are full, then Tuesdays at 7:00 pm are opened; if Tuesdays are full, then Mondays at 7:00 pm are opened)"
+    "Junior Recitals, Thursdays at 6:00 pm (when Thursdays are full, then Tuesdays at 6:00 pm are opened; if Tuesdays are full, then Mondays at 6:00 pm are opened)",
+    "Senior Recitals, Thursdays at 7:00 pm (when Thursdays are full, then Tuesdays at 7:00 pm are opened; if Tuesdays are full, then Mondays at 7:00 pm are opened)"
    ],
    "keywords": "junior senior recital hearing scheduling thursday program length minutes"
   },
@@ -264,13 +264,14 @@ window.HANDBOOK = {
    "secTitle": "Performance Standards",
    "title": "Recital Class",
    "page": 7,
-   "summary": "Recital Class is 20 performances a semester: 11-13 weekly class meetings plus 7-9 outside performances. Register for MUR 000 while you are in applied study, and MUR 001 in the term of your senior recital. You also have to perform in Recital Class at least once per semester as the featured soloist - chamber ensembles do not count. Failing two semesters costs $500 from your Talent Scholarship or Ensemble Award, and every additional failed semester reduces it further. Honors Colloquium does not count for credit or as an excused absence.",
+   "summary": "Recital Class is 20 performances a semester, 11 to 13 weekly class meetings plus 7 to 9 outside performances. Register for MUR 000 while you are in applied study, and MUR 001 in the term of your senior recital. You also have to perform in Recital Class at least once per semester as the featured soloist, chamber ensembles do not count. Failing two semesters costs $500 from your Talent Scholarship or Ensemble Award, and every additional failed semester reduces it further. Honors Colloquium does not count for credit or as an excused absence.",
    "paras": [
     "Attendance at recitals and school concerts is considered an integral part of each student’s development as both a performer and an informed listener. Recital Class students are required to attend 11-13 weekly Recital Class meetings and 7-9 outside performances (student recitals, faculty recitals, ensemble concerts, musicals, and operas presented or sponsored by the Winters School of Music and other pre-approved musical performances) for a total of 20 performances per semester.",
     "Music majors and minors enrolled in applied study must register for MUR 000 (Recital Class). Students who are required to perform a senior recital will register for MUR 001 (Senior Recital Class) in the term the recital is to be performed. Failure to register for Recital Class may result in a reduction of Talent Scholarship or Ensemble Award. A grade of “P” or “F” will be earned in the class.",
     "Students who fail Recital Class for two semesters will forfeit $500 from their Music Talent Scholarship or Ensemble Award; every additional semester that is failed will result in additional reduction of Talent Scholarship or Ensemble Award. Students are required to register for MUR 001 (Senior Recital Class) during their final semester on campus or during their residency semester. Carey Scholars are not excused from this requirement. Honors Colloquium will not count as recital credit or as an excused absence from Recital Class.",
     "Transfer students who have met recital requirements at their respective schools, but do not have transcript credit, may be required to secure a letter verifying recital attendance.",
     "All music majors enrolled in applied lessons must perform in Recital Class at least once per semester. Failure to meet this requirement will result in a failing grade for the term. Performances must feature the student as the primary soloist (with or without a collaborative pianist). Chamber ensembles do not satisfy this requirement. However, standard repertoire involving additional performers (such as a duet or trio) where the student remains the featured performer may be approved at the applied instructor's discretion. First-semester students may be exempted from performing during the first term at their applied instructor's discretion. Secondary and elective students are encouraged to participate as scheduling allows.",
+    "Performance dates and venues are assigned by applied faculty. Once assigned a slot by the applied teacher (verified by the music office), the student is responsible for submitting complete program details no later than 4:00 PM on the Wednesday preceding the Friday performance. Late or incomplete submissions will result in forfeiture of the performance slot. Click here to submit recital class program information. Program details must be submitted via the RECITAL CLASS PROGRAM INFORMATION FORM and include: Full Title of Piece (including movement numbers and titles) Composer's Full Name and Dates (Birth-Death) Name of Collaborative Pianist (or note Unaccompanied) Exact Performance Duration (MM:SS)",
     "Information and instructions regarding Recital Class performances will be available from individual applied teachers. Appropriate attire for all recital performances consists of the same requirements for jury examinations."
    ],
    "keywords": "MUR 000 MUR 001 attendance 20 performances convocation forfeit 500 talent"
@@ -281,14 +282,14 @@ window.HANDBOOK = {
    "secTitle": "Performance Standards",
    "title": "Colloquium",
    "page": 10,
-   "summary": "Music education, performance, music therapy, and worship students take a degree-specific colloquium that meets 4-7 times a semester. Attendance is mandatory, and you stay enrolled until you finish your on-campus degree requirements. The four courses are MUE 000, MUX 000, MTH 0010, and MUC 000.",
+   "summary": "Music education, performance, music therapy, and worship students take a degree-specific colloquium that meets 4 to 7 times a semester. Attendance is mandatory, and you stay enrolled until you finish your on-campus degree requirements. The four courses are MUE 000, MUX 000, MTH 0010, and MUC 000.",
    "paras": [
     "Students majoring in music education, performance, music therapy, or worship (leadership or technology) must participate in a colloquium course based on their degree plan. Participation will provide unique opportunities for interdisciplinary learning and shared development among students during various stages of their program. Students will discuss and address various techniques, methods, clinicals, and practical subjects related to their degree program to better prepare them for their field of study.",
     "Enrollment in degree-specific colloquium courses is required until completion of all on-campus degree requirements. Colloquium meetings are scheduled 4-7 times per semester. Attendance is mandatory. There are four colloquium courses available:",
-    "Music Education Colloquium (MUE 000) - required for all music education (vocal/instrumental) majors.",
-    "Music Performance Colloquium (MUX 000) - required for all music performance (vocal/instrumental) majors.",
-    "Music Therapy Colloquium (MTH 0010) - required for all music therapy majors.",
-    "Worship Colloquium (MUC 000) - required for all worship leadership & worship technology majors and minors."
+    "Music Education Colloquium (MUE 000), required for all music education (vocal/instrumental) majors.",
+    "Music Performance Colloquium (MUX 000), required for all music performance (vocal/instrumental) majors.",
+    "Music Therapy Colloquium (MTH 0010), required for all music therapy majors.",
+    "Worship Colloquium (MUC 000), required for all worship leadership & worship technology majors and minors."
    ],
    "keywords": "MUE 000 MUX 000 MTH 0010 MUC 000 meetings mandatory"
   },
@@ -298,12 +299,12 @@ window.HANDBOOK = {
    "secTitle": "Performance Standards",
    "title": "Collaborative Piano Guidelines",
    "page": 10,
-   "summary": "If you need a staff pianist, the Fall 2026 Collaborative Contract is due to Dr. Mathis by Thursday of Week 4 at 11:59 PM, filled out with your applied professor, with all music uploaded as a single PDF in the correct key - otherwise it is not accepted. Vocalists choose Option A ($400, one hour weekly) or Option B ($200, thirty minutes weekly); instrumentalists have one option ($200 for six 30-minute services). Degree recitals, competitions, and recordings add a $100 event fee. Fees are non-refundable and must be repaid if an event is rescheduled. Rehearsals start Week 5, need seven days' notice, are capped at two per week during Weeks 12-14, and require 24 hours' notice to cancel. A collaborative pianist is not required for juries or general recitals - accompaniment recordings are allowed there.",
+   "summary": "If you need a staff pianist, the Fall 2026 Collaborative Contract is due to Dr. Mathis by Thursday of Week 4 at 11:59 PM, filled out with your applied professor, with all music uploaded as a single PDF in the correct key, otherwise it is not accepted. Vocalists choose Option A ($400, one hour weekly) or Option B ($200, thirty minutes weekly); instrumentalists have one option ($200 for six 30-minute services). Degree recitals, competitions, and recordings add a $100 event fee. Fees are non-refundable and must be repaid if an event is rescheduled. Rehearsals start Week 5, need seven days' notice, are capped at two per week during Weeks 12-14, and require 24 hours' notice to cancel. A collaborative pianist is not required for juries or general recitals, accompaniment recordings are allowed there.",
    "paras": [
     "The Fall 2026 Collaborative Contract is the required agreement to secure a pianist for lessons, juries, and recitals this semester. The contract must be filled out with the applied professor and submitted to Dr. Mathis by Thursday of Week 4 at 11:59 PM. All music must be uploaded as a single PDF in the correct key. Otherwise, the contract will not be accepted.",
-    "Vocalists may choose between two collaborative service options: Option A ($400) provides one hour of services each week, while Option B ($200) provides thirty minutes weekly. Both options include one general recital and jury. Instrumentalists who need a pianist have a single option ($200) that will receive (6) 30-minute services over the course of the semester in addition to one general recital and jury.",
+    "Vocalists may choose between two collaborative service options: Option A ($400) provides one hour of services each week, while Option B ($200) provides thirty minutes weekly. Both options include one general recital and jury. Instrumentalists who need a pianist have a single option ($200) that will receive (6) 30-minute services over the course of the semester in addition to one general recital and jury. Links to both contracts are below. Instrumental Collaborative Contract, Vocal Collaborative Contract.",
     "If performing a degree recital, competition, or recording, there is an additional $100 event fee that applies (this does not apply to Upper-Level or General Recital performances). Please note: all fees are non-refundable and must be repaid if an event is rescheduled.",
-    "Rehearsals can start as early as Week 5 and must be scheduled at least seven days in advance. Only two rehearsals per week are allowed during Weeks 12-14, and cancellations require at least 24 hours’ notice to be rescheduled. Be on time and prepared. Missed or late rehearsals cannot be made up. By signing the contract, the student and the professor are agreeing to these policies, which are designed to help students stay organized and set up for a successful semester.",
+    "Rehearsals can start as early as Week 5 and must be scheduled at least seven days in advance. Only two rehearsals per week are allowed during Weeks 12–14, and cancellations require at least 24 hours’ notice to be rescheduled. Be on time and prepared. Missed or late rehearsals cannot be made up. By signing the contract, the student and the professor are agreeing to these policies, which are designed to help students stay organized and set up for a successful semester.",
     "Note: Performing with a collaborative pianist is not required for juries or general recital participation. Due to the growth of the school of music, accompaniment recordings are allowed in these instances to alleviate collaborative personnel shortage."
    ],
    "keywords": "accompanist pianist contract deadline week 4 fees 400 200 100 rehearsal cancel"
@@ -316,7 +317,7 @@ window.HANDBOOK = {
    "page": 11,
    "summary": "Visiting artists perform in Thomas & Miriam Roberson Auditorium, the Recital Hall, or Bass Chapel, usually with a master class the day before or after. Music majors are required to attend the recitals and take part in master classes as assigned by applied faculty.",
    "paras": [
-    "Each year, the Winters School invites several US and international performers to present recitals in Thomas & Miriam Roberson Auditorium, Recital Hall, or Bass Chapel, either preceded or followed by master classes the next day. These performances provide students with exposure to repertoire and opportunities to work with noted artists. Music majors are required to attend the recitals and participate in the master classes as assigned by applied faculty."
+    "Each year, the Winters School invites several US and international performers to present recitals in Thomas & Miriam Roberson Auditorium, Recital Hall, or Bass Chapel, sometimes preceded or followed by master classes the next day. These performances provide students with exposure to repertoire and opportunities to work with noted artists. Music majors are required to attend the recitals and participate in the master classes as assigned by applied faculty."
    ],
    "keywords": "master class visiting artists thomas fine arts bass chapel roberson"
   },
@@ -326,7 +327,7 @@ window.HANDBOOK = {
    "secTitle": "Piano Area Policies",
    "title": "Class Piano",
    "page": 12,
-   "summary": "Four semesters of class piano - MUP 171, 172, 271, 272 - passed with a C or higher completes the requirement, and you stay enrolled in piano continuously until the proficiency is done. Finish the sequence before an upper-level jury, junior/senior upper-level courses, an academic junior or senior recital, student teaching, internships, and graduation. If you fail a section, you wait for the next time it is offered and retake it.",
+   "summary": "Four semesters of class piano, MUP 171, 172, 271, 272, passed with a C or higher completes the requirement, and you stay enrolled in piano continuously until the proficiency is done. Finish the sequence before an upper-level jury, junior or senior upper-level courses, an academic junior or senior recital, student teaching, internships, and graduation. If you fail a section, you wait for the next time it is offered and retake it.",
    "paras": [
     "The Class Piano sequence must be completed in its entirety prior to passing an Upper-Level Jury, taking Junior and Senior Upper-Level courses, performing an academic Junior or Senior recital, completing student teaching, entering internships, and applying for graduation.",
     "If the pace outlined by the piano classes is maintained, a student should complete the School of Music’s piano requirements after four semesters (two as a freshman and two as a sophomore). Students are required to remain enrolled in piano continuously until the Piano Proficiency Exam is completed. If a student fails a section of class piano, the student must wait until it is offered again, then re-take it and pass it in order to progress through the class piano sequence."
@@ -351,7 +352,7 @@ window.HANDBOOK = {
    "secTitle": "Piano Area Policies",
    "title": "Piano Proficiency Exam",
    "page": 12,
-   "summary": "The proficiency is taught and tested inside class piano: Piano I and II build fundamentals, Piano III and IV drill the exam components, and you register for MUP 000 alongside Class Piano IV. Components include two solo pieces, all 12 major and minor scales with arpeggios and a chord progression, harmonization and transposition, written and improvised accompanying, two four-part hymns, open-score reading, and sight reading. With your instructor's approval you can attempt components early.",
+   "summary": "The proficiency is taught and tested inside class piano, Piano I and II build fundamentals, Piano III and IV drill the exam components, and you register for MUP 000 alongside Class Piano IV. Components include two solo pieces, all 12 major and minor scales with arpeggios and a chord progression, harmonization and transposition, written and improvised accompanying, two four-part hymns, open-score reading, and sight reading. With your instructor's approval you can attempt components early.",
    "paras": [
     "The piano proficiency requirements are taught and tested in the context of Class Piano. Class Piano I and II develop fundamentals, while Class Piano III and IV work on the exam components. Students should register for the proficiency exam (MUP 000) concurrently with Class Piano IV. A student may attempt to pass components early at the discretion of the course instructor.",
     "Piano proficiency exam components are as follows:",
@@ -383,7 +384,7 @@ window.HANDBOOK = {
     "After the completion of the class piano sequence and the Piano Proficiency Exam, a student may continue taking applied piano, if desired. A student may NOT take applied piano as supplement to class piano (applied piano is not used as tutoring for the Piano Proficiency Exam).",
     "Transfer music majors and minors who made a B or higher for four semesters of class piano at their previous institution will not be required to complete any piano classes or the piano proficiency exam. Transfer music majors and minors who have made a B or higher for two or three semesters of class piano must enroll in MUP 271 (Piano Class III). Transfer music majors and minors who have had one piano class or no piano at the college level must enroll in MUP 171 (Piano Class I). Transfer students may continue taking applied piano lessons as electives, if desired, upon the completion of class piano requirements.",
     "All major and non-major applied piano students are required to complete a jury at the end of the semester. Specific jury requirements are decided by the applied instructor based on the course number and goals set in applied lessons.",
-    "*The piano faculty reserves the right to the appropriate course placement or applied piano placement of ALL music majors.*"
+    "The piano faculty reserves the right to the appropriate course placement or applied piano placement of ALL music majors."
    ],
    "keywords": "hearing bypass placement applied piano MUP 111 freshmen"
   },
@@ -393,9 +394,9 @@ window.HANDBOOK = {
    "secTitle": "Ensembles & Performance Organizations",
    "title": "Primary & Secondary Ensemble Requirements",
    "page": 15,
-   "summary": "Every music major participates in a primary ensemble, based on their principal applied area, every semester enrolled. To be in any secondary ensemble you have to hold at least a “B” in the primary one; drop below that at midterm and you are on ensemble probation, and finishing the semester below a “B” (or earning an “F” at any point) costs you secondary eligibility and any secondary ensemble scholarship for the next term. You get eligibility back after a full semester at “B” or higher. Bachelor of Science majors also need at least four semesters of Worship Choir or Worship Band. Ensemble performance attire is usually billed to your student account.",
+   "summary": "Every music major participates in a primary ensemble, based on their principal applied area, every semester enrolled. To be in any secondary ensemble you have to hold at least a B in the primary one; drop below that at midterm and you are on ensemble probation, and finishing the semester below a B (or earning an F at any point) costs you secondary eligibility and any secondary ensemble scholarship for the next term. You get eligibility back after a full semester at B or higher. Bachelor of Science majors also need at least four semesters of Worship Choir or Worship Band. Ensemble performance attire is usually billed to your student account.",
    "paras": [
-    "All music majors are required to participate in a primary ensemble based on their principal applied performance area each semester enrolled at William Carey University. To participate in secondary ensembles, students must maintain a minimum grade of \"B\" in their assigned primary ensemble. If a student's grade falls below a \"B\" at midterm, they are placed on ensemble probation for the rest of the term. If the student does not raise their primary ensemble grade to a \"B\" or higher by the end of the semester, or if they earn an \"F\" at any point, they lose eligibility for all secondary groups for the following term, are restricted to their primary ensemble, and forfeit any secondary ensemble scholarships. Students may regain eligibility for secondary ensembles once they complete a full semester in their primary ensemble with a grade of \"B\" or higher.",
+    "All music majors are required to participate in a primary ensemble based on their principal applied performance area each semester enrolled at William Carey University. To participate in secondary ensembles, students must maintain a minimum grade of B in their assigned primary ensemble. If a student's grade falls below a B at midterm, they are placed on ensemble probation for the rest of the term. If the student does not raise their primary ensemble grade to a B or higher by the end of the semester, or if they earn an F at any point, they lose eligibility for all secondary groups for the following term, are restricted to their primary ensemble, and forfeit any secondary ensemble scholarships. Students may regain eligibility for secondary ensembles once they complete a full semester in their primary ensemble with a grade of B or higher.",
     "Primary Ensemble Assignment",
     "Vocal primaries:",
     "Vocal performance majors must audition for Chorale or Concert Choir and participate in one each semester until graduation.",
@@ -415,36 +416,36 @@ window.HANDBOOK = {
    "secTitle": "Ensembles & Performance Organizations",
    "title": "Performance Organizations",
    "page": 15,
-   "summary": "This is the full roster of vocal and instrumental groups, from Worship Choir, Chorale, and Concert Choir to Wind Symphony, Orchestra, Carey Big Band, Spirit of Carey, Guitar Ensemble, and the traveling worship bands, with credit status and audition requirements noted for each. Register for the appropriate ensemble every semester you are full-time, even after the requirement is met - you can register for zero credit at that point. Music majors use the 300/400-level course codes.",
+   "summary": "This is the full roster of vocal and instrumental groups, from Worship Choir, Chorale, and Concert Choir to Wind Symphony, Orchestra, Carey Big Band, Spirit of Carey, Guitar Ensemble, and the traveling worship bands, with credit status and audition requirements noted for each. Register for the appropriate ensemble every semester you are full-time, even after the requirement is met, you can register for zero credit at that point. Music majors use the 300/400-level course codes.",
    "paras": [
     "Vocal Ensembles (all vocalists in a vocal ensemble must be in Worship Choir)",
-    "Worship Choir - a choral ensemble that is open to all students; no audition required. All vocalists and vocal concentration music majors will participate in this ensemble. (variable credit)",
-    "Chorale - the premier choral organization is open, by audition, to all students at William Carey University and performs the gamut of choral literature as well as extended works. All choral education majors must audition for the Chorale until they enter their residency semester. (variable credit)",
-    "Concert Choir - an SATB choral ensemble open to all WCU students by audition. This ensemble sings a variety of traditional and contemporary choral literature. (variable credit)",
-    "Carey On - an auditioned chamber ensemble, members are required to audition for Chorale/Concert Choir. (non-credit)",
-    "Carpenter’s Wood - an auditioned, traveling worship ensemble that performs for churches and community events. (non-credit)",
-    "Commissioner’s Quartet - an auditioned male quartet. (non-credit)",
-    "Musical Theatre Workshop - an ensemble that performs a variety of small- and large-form musical theatre literature. (credit)",
-    "Opera Workshop - students audition and portray operatic roles in full-stage productions, one-act operas, or within studio settings with costumes, scenery, and make-up. (credit)",
-    "Restoration Band - an auditioned, traveling worship ensemble that performs in churches, school chapels, and ministry conferences. (non-credit)",
-    "Hub City Worship - an auditioned, traveling worship ensemble that performs in churches, school chapels, and ministry conferences. (non-credit)",
-    "Cherry Street - an auditioned, traveling worship ensemble that primarily performs on campus, and occasionally in churches, school chapels, and ministry conferences. (non-credit)",
+    "Worship Choir, a choral ensemble that is open to all students; no audition required. All vocalists and vocal concentration music majors will participate in this ensemble. (variable credit)",
+    "Chorale, the premier choral organization is open, by audition, to all students at William Carey University and performs the gamut of choral literature as well as extended works. All choral education majors must audition for the Chorale until they enter their residency semester. (variable credit)",
+    "Concert Choir, an SATB choral ensemble open to all WCU students by audition. This ensemble sings a variety of traditional and contemporary choral literature. (variable credit)",
+    "Carey On an auditioned chamber ensemble, members are required to audition for Chorale/Concert Choir. (variable credit)",
+    "Carpenter’s Wood an auditioned, traveling worship ensemble that performs for churches and community events. (variable credit)",
+    "Commissioner’s Quartet, an auditioned male quartet. (variable credit)",
+    "Musical Theatre Workshop, an ensemble that performs a variety of small- and large-form musical theatre literature. (credit)",
+    "Opera Workshop, students audition and portray operatic roles in full-stage productions, one-act operas, or within studio settings with costumes, scenery, and make-up. (credit)",
+    "Restoration Band, an auditioned, traveling worship ensemble that performs in churches, school chapels, and ministry conferences. (variable credit)",
+    "Hub City Worship, an auditioned, traveling worship ensemble that performs in churches, school chapels, and ministry conferences. (variable credit)",
+    "Cherry Street, an auditioned, traveling worship ensemble that primarily performs on campus, and occasionally in churches, school chapels, and ministry conferences. (variable credit)",
     "Instrumental Ensembles (all instrumentalists in an instrumental ensemble must be in Orchestra, Piano Ensemble, Guitar Ensemble, Concert Band, Symphonic Winds, or Wind Symphony based on their primary instrument)",
-    "Wind Symphony - the university’s signature ensemble of woodwind, brass, and percussion instrumentalists. Acceptance and seating in the ensemble are by audition only. (variable credit)",
-    "Symphonic Winds - the auditioned premier instrumental ensemble that performs appropriate literature for the ensemble and accompanies large-scale ensembles and productions. (variable credit)",
-    "Concert Band - placement-based ensemble that performs appropriate literature and accompanies large-scale ensembles and productions. (variable credit)",
-    "Carey Big Band - auditioned and placement-based jazz ensemble. (variable credit)",
-    "Knights of Jazz - a small, auditioned jazz combo. (non-credit)",
-    "Spirit of Carey - auditioned indoor marching ensemble. All wind and percussion concentration music education majors must participate in this group until they begin residency. (variable credit)",
-    "Evidence - a competitive WGI indoor ensemble. Requires an audition and participation in the Spirit of Carey. (variable credit)",
-    "William Carey University Orchestra - auditioned string ensemble. (variable credit)",
-    "Carey String Quartet - auditioned string quartet. (non-credit)",
-    "Pep Band - an ensemble selected from current large-format ensemble audition results that performs for basketball games in the winter semester. The maximum number of students in this group is 25. (non-credit)",
-    "Pit Orchestra - an ensemble selected from current large-format ensemble audition results that performs for opera and musical theatre productions. (non-credit)",
-    "Guitar Ensemble - a performance group that explores a wide range of musical genres from Renaissance to Contemporary utilizing pieces written for guitar ensemble or arrangements of appropriate works. Open to all students by audition. (variable credit)",
-    "Piano Ensemble - an auditioned ensemble of pianists that performs literature for more than one piano. (variable credit)",
-    "Thomas Hall - an auditioned rock guitar group that performs for campus, community, and regional events. (non-credit)",
-    "Worship Band - an ensemble selected from wind auditions that performs with Worship Choir. (variable credit)",
+    "Wind Symphony, the university’s signature ensemble of woodwind, brass, and percussion instrumentalists. Acceptance and seating in the ensemble are by audition only. (variable credit)",
+    "Symphonic Winds, the auditioned premier instrumental ensemble that performs appropriate literature for the ensemble and accompanies large-scale ensembles and productions. (variable credit)",
+    "Concert Band, placement-based ensemble that performs appropriate literature and accompanies large-scale ensembles and productions. (variable credit)",
+    "Carey Big Band, auditioned and placement-based jazz ensemble. (variable credit)",
+    "Knights of Jazz, a small, auditioned jazz combo. (variable credit)",
+    "Spirit of Carey, auditioned indoor marching ensemble. All wind and percussion concentration music education majors must participate in this group until they begin residency. (variable credit)",
+    "Evidence, a competitive WGI indoor ensemble. Requires an audition and participation in the Spirit of Carey. (variable credit)",
+    "William Carey University Orchestra, auditioned string ensemble. (variable credit)",
+    "Carey String Quartet, auditioned string quartet. (variable credit)",
+    "Pep Band, an ensemble selected from current large-format ensemble audition results that performs for basketball games in the winter semester. The maximum number of students in this group is 25. (variable credit)",
+    "Pit Orchestra, an ensemble selected from current large-format ensemble audition results that performs for opera and musical theatre productions. (variable credit)",
+    "Guitar Ensemble, a performance group that explores a wide range of musical genres from Renaissance to Contemporary utilizing pieces written for guitar ensemble or arrangements of appropriate works. Open to all students by audition. (variable credit)",
+    "Piano Ensemble, an auditioned ensemble of pianists that performs literature for more than one piano. (variable credit)",
+    "Thomas Hall, an auditioned rock guitar group that performs for campus, community, and regional events. (variable credit)",
+    "Worship Band, an ensemble selected from wind auditions that performs with Worship Choir. (variable credit)",
     "Music majors are required to register for the appropriate ensemble (based upon applied concentration) each semester enrolled as full-time students, even if the ensemble requirement has been met.",
     "Worship majors must enroll in at least 4 semesters of Worship Choir or Worship Band regardless of concentration.",
     "If the ensemble requirement has been met, the student may register for an ensemble for zero credit. Upper-level (300/400) ensemble course codes should be used for music majors and lower-level (100/200) course codes for non-major students."
@@ -459,10 +460,10 @@ window.HANDBOOK = {
    "page": 17,
    "summary": "Four student organizations are listed: AMTA for music therapy majors, Delta Omicron, NAfME for music education majors, and Phi Mu Alpha Sinfonia. Each is a way to build leadership, service, and professional connections beyond coursework.",
    "paras": [
-    "American Music Therapy Association - an organization for music therapy majors, AMTA provides opportunities for increasing knowledge concerning the field of music therapy and promotes opportunities and experiences for students in providing activities for persons with disabilities. Students are involved in opportunities at local, regional, and national levels.",
-    "Delta Omicron - a professional and honorary fraternity, DO is open to music majors and minors who achieve its required academic performance and professional standards. It provides opportunities to increase leadership, service, and performance skills.",
-    "NAfME - an organization for music education majors that provides opportunities for increasing knowledge concerning the field of music education. Students are involved in opportunities at the local, state, and national levels.",
-    "Phi Mu Alpha Sinfonia - an American collegiate professional and social fraternity for men with a special interest in music."
+    "American Music Therapy Association, an organization for music therapy majors, AMTA provides opportunities for increasing knowledge concerning the field of music therapy and promotes opportunities and experiences for students in providing activities for persons with disabilities. Students are involved in opportunities at local, regional, and national levels.",
+    "Delta Omicron, a professional and honorary fraternity, DO is open to music majors and minors who achieve its required academic performance and professional standards. It provides opportunities to increase leadership, service, and performance skills.",
+    "NAfME, an organization for music education majors that provides opportunities for increasing knowledge concerning the field of music education. Students are involved in opportunities at the local, state, and national levels.",
+    "Phi Mu Alpha Sinfonia, an American collegiate professional and social fraternity for men with a special interest in music."
    ],
    "keywords": "AMTA delta omicron NAfME phi mu alpha sinfonia fraternity"
   },
@@ -474,8 +475,8 @@ window.HANDBOOK = {
    "page": 17,
    "summary": "Two competition and audition pipelines are named. NATS regional auditions fall in the second week of November with state auditions the last weekend in March. MMTA holds performance auditions in voice, piano, organ, guitar, strings, woodwinds, and brass at its state convention, the first Thursday through Saturday of November.",
    "paras": [
-    "NATS - the National Association of Teachers of Singing is a professional organization for instructors of voice. NATS provides an opportunity for pre-college or college students to audition and compete with students of similar proficiency and age. Regional auditions are held during the second week of November and state auditions are held the last weekend in March.",
-    "MMTA - the Mississippi Music Teachers Association is a professional organization affiliated with the Music Teachers National Association (MTNA). Membership is open to teachers and college students. Performance auditions are available in voice, piano, organ, guitar, strings, woodwinds, and brass areas at the annual state convention which is held the first Thursday, Friday, and Saturday of November at rotating locations."
+    "NATS, the National Association of Teachers of Singing is a professional organization for instructors of voice. NATS provides an opportunity for pre-college or college students to audition and compete with students of similar proficiency and age. Regional auditions are held during the second week of November and state auditions are held the last weekend in March.",
+    "MMTA, the Mississippi Music Teachers Association is a professional organization affiliated with the Music Teachers National Association (MTNA). Membership is open to teachers and college students. Performance auditions are available in voice, piano, organ, guitar, strings, woodwinds, and brass areas at the annual state convention which is held the first Thursday, Friday, and Saturday of November at rotating locations."
    ],
    "keywords": "NATS MMTA competition auditions november march"
   },
@@ -485,13 +486,14 @@ window.HANDBOOK = {
    "secTitle": "Student Attendance & General Policies",
    "title": "Class, Lesson & Ensemble Attendance",
    "page": 19,
-   "summary": "University policy requires attending at least 75% of class meetings to receive credit, on top of whatever your syllabus says. In applied music, tell your instructor before the lesson if you are sick or have an emergency; more than three unexcused lessons means you cannot pass the course, and the collaborative pianist still gets paid if they were scheduled. For ensembles, you get one absence for sickness without a doctor's note only if you email the director before the rehearsal - after that you need a doctor's excuse or prior approval.",
+   "summary": "University policy requires attending at least 75% of class meetings to receive credit, on top of whatever your syllabus says. In applied music, tell your instructor before the lesson if you are sick or have an emergency; more than three unexcused lessons means you cannot pass the course, and the collaborative pianist still gets paid if they were scheduled. For ensembles, you get one absence for sickness without a doctor's note only if you email the director before the rehearsal, after that you need a doctor's excuse or prior approval.",
    "paras": [
     "Students are expected to attend class on time and adhere to each instructor’s attendance policy that is contained in the course syllabus. According to school policy (see the University Catalog), students must attend a minimum of 75% of class meetings to receive credit for the course.",
     "Students in applied music courses are expected to attend all lessons and studio classes. In the event of an emergency or illness, students must notify applied instructors prior to the lesson. The collaborative pianist will be paid if scheduled to attend the lesson. Faculty will re-schedule lessons if they must miss a lesson. If a student misses more than three unexcused lessons, the student cannot pass the applied music course. Excused absences include extended illness with a doctor’s excuse for each lesson or representation by the student in a School of Music ensemble.",
-    "Ensemble attendance is consistent among every group in the School of Music. A student is permitted one absence for sickness without a doctor’s excuse as long as the student emails the director before the rehearsal. After one absence, a doctor’s excuse or prior approval for a major life event is required."
+    "Ensemble attendance is consistent among every group in the School of Music. A student is permitted one absence for sickness without a doctor’s excuse as long as the student emails the director before the rehearsal. After one absence, a doctor’s excuse or prior approval for a major life event is required.",
+    "School of Music buildings, including Thomas Fine Arts (TFA), Carey Band Hall (CBH), Lorena Roseberry-Smith Hall (LRS), and the College of Health Sciences (COHS), are open daily (see schedule below). Building access hours and building availability remain subject to change. Thomas Fine Arts & Carey Band Hall o 6:00 AM -12:00 Midnight Lorena-Roseberry Smith Hall and College of Health Sciences o 6:00 AM - 9:00 PM"
    ],
-   "keywords": "75 percent absence sick doctor excuse ensemble email director three unexcused lessons"
+   "keywords": "75 percent absence sick doctor excuse ensemble email director three unexcused lessons facilities"
   },
   {
    "id": "ai-policy",
@@ -580,7 +582,7 @@ window.HANDBOOK = {
    "secTitle": "Musician Health, Safety, & Wellness",
    "title": "Vocal Injury Prevention",
    "page": 23,
-   "summary": "Vocal health matters for anyone whose career runs on their voice. The handbook covers colds and laryngitis, muscle and tissue fatigue, reflux, nodules, and polyps, then gives thirteen prevention steps: listen to your body, warm up the midrange first, rest without whispering, sleep, drink about 64 ounces of water a day, avoid blood-thinning pain relievers such as aspirin, Aleve, Motrin, and Advil (Tylenol is acceptable), break up practice and stay under about two hours of singing a day, keep good posture, do not force, plan ahead, audit your offstage vocal habits, and eat well. Hoarseness or an unintended voice change lasting more than two weeks means see a medical professional - your voice teacher is trained to build a healthy voice, not to diagnose an injured one.",
+   "summary": "Vocal health matters for anyone whose career runs on their voice. The handbook covers colds and laryngitis, muscle and tissue fatigue, reflux, nodules, and polyps, then gives thirteen prevention steps: listen to your body, warm up the midrange first, rest without whispering, sleep, drink about 64 ounces of water a day, avoid blood-thinning pain relievers such as aspirin, Aleve, Motrin, and Advil (Tylenol is acceptable), break up practice and stay under about two hours of singing a day, keep good posture, do not force, plan ahead, audit your offstage vocal habits, and eat well. Hoarseness or an unintended voice change lasting more than two weeks means see a medical professional, your voice teacher is trained to build a healthy voice, not to diagnose an injured one.",
    "paras": [
     "Vocal health is not only important for singers, but it is crucial for anyone who uses their voice for their profession, such as teachers, clergy, salespeople, lawyers, and counselors. Below are examples of issues or problems one can have with their voice and some strategies that may help mitigate them.",
     "Colds, Sore Throats, and Laryngitis: viruses that cause the vocal folds to become inflamed. Your voice may sound hoarse, deeper than usual, and you may not have access to your high register. Your vocal folds are especially susceptible to damage when you are sick with an upper respiratory infection. Avoid using your voice as much as possible, avoid throat clearing, talk quietly if you must talk, rest, and hydrate.",
@@ -590,8 +592,8 @@ window.HANDBOOK = {
     "Vocal Polyp: usually only on one side of the vocal fold often resulting from a traumatic incident to the vocal fold (like a bad sneeze or cough while sick) after a vocal hemorrhage (bleed) or mucosal tear.",
     "Steps to help prevent injury:",
     "1. Listen to your body! You and only you know how you feel. If you notice you are having to strain or push your voice, take a break. If you notice you are tired or hoarse, rest the voice.",
-    "2. Warm-up! Warm up the midrange of the voice before the extremes. Use lip trills, singing through a straw, or other semi-occluded exercise (SOVT) to both warm up the voice and sooth a tired voice. And don’t just warm up the voice - warm up and stretch the entire body (especially the neck, shoulders, and back).",
-    "3. Rest! Throughout your practices and rehearsals, take breaks to rest the voice and stretch and relax the body. Find ways to practice that don’t involve the voice (mental practice, rhythm work, research/background information, diction work, etc.). Avoid whispering - that does not rest your voice.",
+    "2. Warm-up! Warm up the midrange of the voice before the extremes. Use lip trills, singing through a straw, or other semi-occluded exercise (SOVT) to both warm up the voice and sooth a tired voice. And don’t just warm up the voice, warm up and stretch the entire body (especially the neck, shoulders, and back).",
+    "3. Rest! Throughout your practices and rehearsals, take breaks to rest the voice and stretch and relax the body. Find ways to practice that don’t involve the voice (mental practice, rhythm work, research/background information, diction work, etc.). Avoid whispering, that does not rest your voice.",
     "4. Sleep! It is crucial that singers get enough sleep. General wear and tear on the voice and minor damage can often be remedied with adequate sleep.",
     "5. Hydrate! Singers must stay well-hydrated to keep the surfaces of the vocal folds moist and functioning efficiently. Try to drink 64 ounces of water per day. Avoid alcohol, excessive caffeine, and other substances or foods that may irritate your voice.",
     "6. Don’t do drugs! Singers should avoid aspirin products. This includes any anti-inflammatory drug such as Aleve, Motrin, Advil, aspirin, etc. Vitamin E should be used in moderation. These agents thin the blood and could cause a vocal fold hemorrhage, particularly if combined with excessive or improper vocal usage. Tylenol is acceptable for the voice. Smoking and other recreational drugs are extremely detrimental to the vocal fold tissues. Note that some over-the-counter cold & flu medications and pain relievers can dehydrate the body.",
@@ -617,7 +619,7 @@ window.HANDBOOK = {
    "secTitle": "Musician Health, Safety, & Wellness",
    "title": "Hearing Health & Noise Exposure",
    "page": 25,
-   "summary": "Hearing loss, tinnitus, and pitch-perception problems can end a performing career, and they are not just an amplified-music issue - solo practice in a small room counts. Risk climbs above 85dB, and the published exposure limits run from 8 hours at 85dB down to about 2 minutes at 110dB. Plan breaks from loud material, use earplugs when you know it will be loud, take the same precautions off campus, and talk to an instructor or director if you are worried about damage.",
+   "summary": "Hearing loss, tinnitus, and pitch-perception problems can end a performing career, and they are not just an amplified-music issue, solo practice in a small room counts. Risk climbs above 85dB, and the published exposure limits run from 8 hours at 85dB down to about 2 minutes at 110dB. Plan breaks from loud material, use earplugs when you know it will be loud, take the same precautions off campus, and talk to an instructor or director if you are worried about damage.",
    "paras": [
     "One of the greatest risks for instrumentalists is hearing loss. Unlike the musculoskeletal issues that many musicians don’t think much about, noise levels are something that we deal with on a regular basis. Many players fail to take necessary precautions to protect their hearing despite this awareness. It is important that we understand hearing health is not a concern only for those working around amplified instruments and music. It is a very real concern for all instrumentalists. This includes solo practice sessions in small spaces.",
     "Beyond hearing loss, musicians face other career-threatening issues like tinnitus and pitch-perception problems. Tinnitus, often a ringing, buzzing, or hissing sound in one or both ears, is frequently caused by loud noise exposure. It can be temporary or permanent and is also linked to other health concerns like high blood pressure, highlighting the need for good overall health. Similarly, pitch-perception problems (the inability to correctly distinguish between pitches) can also result from damage due to loud noise exposure, which can effectively end a performing musician's career.",
@@ -692,7 +694,7 @@ window.HANDBOOK = {
       "Garret Johnston, MMEd - Graduate Assistants, instrumental music education",
       "Benji Riley, MMWS - Graduate Assistants, worship leadership",
       "Kara Simon, MMEd - Graduate Assistants, choral music education",
-      "Jim Armstron - Adjunct Instructors, music education[cite: 13]",
+      "Jim Armstrong - Adjunct Instructors, music education",
       "Dr. Jason Beghtol - Adjunct Instructors, music education",
       "Harold Bosarge - Adjunct Instructors, percussion",
       "Dr. Samuel Dahmer - Adjunct Instructors, string bass",
@@ -1266,7 +1268,7 @@ window.HANDBOOK = {
     "sick",
     "tired"
    ],
-   "answer": "Rest the voice rather than whispering, warm up the midrange first, sleep, and aim for about 64 ounces of water a day. Avoid aspirin-type anti-inflammatories such as Aleve, Motrin, and Advil because they thin the blood; Tylenol is acceptable. Keep singing under about two hours a day while you are building technique. If you have vocal pain, stop, and if hoarseness or an unintended voice change lasts more than two weeks, see a medical professional - a voice teacher is not trained to diagnose an injured voice.",
+   "answer": "Rest the voice rather than whispering, warm up the midrange first, sleep, and aim for about 64 ounces of water a day. Avoid aspirin-type anti-inflammatories such as Aleve, Motrin, and Advil because they thin the blood; Tylenol is acceptable. Keep singing under about two hours a day while you are building technique. If you have vocal pain, stop, and if hoarseness or an unintended voice change lasts more than two weeks, see a medical professional, a voice teacher is not trained to diagnose an injured voice.",
    "chunk": "vocal-health",
    "quote": "Listen to your body"
   },
@@ -1293,7 +1295,7 @@ window.HANDBOOK = {
     "prevent",
     "instrument"
    ],
-   "answer": "Warning signs are pain, joint stiffness, loss of motor control, swelling, redness, numbness, and tingling. Common conditions include tendonitis, epicondylitis, focal dystonia, back and neck strain, and carpal tunnel. Stay relaxed, warm up the whole body, and break practice into sessions - two 45-minute sessions beat one 90-minute block. If you think you are injured, get medical attention immediately.",
+   "answer": "Warning signs are pain, joint stiffness, loss of motor control, swelling, redness, numbness, and tingling. Common conditions include tendonitis, epicondylitis, focal dystonia, back and neck strain, and carpal tunnel. Stay relaxed, warm up the whole body, and break practice into sessions, two 45-minute sessions beat one 90-minute block. If you think you are injured, get medical attention immediately.",
    "chunk": "instrumental-health",
    "quote": "signs and symptoms"
   },
