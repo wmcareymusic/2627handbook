@@ -1610,5 +1610,24 @@
 })();
 
 
-</script></body>
+</script>
+  <script>
+  let lastScrollTop = 0;
+  const siteHeader = document.querySelector('.site-header'); 
+  
+  window.addEventListener('scroll', function() {
+    let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    
+    // Hide the header if scrolling down past 100px
+    if (scrollTop > lastScrollTop && scrollTop > 100) {
+      siteHeader.setAttribute('data-hidden', 'true');
+    } else {
+      // Show the header if scrolling up
+      siteHeader.removeAttribute('data-hidden');
+    }
+    
+    lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
+  }, false);
+</script>
+</body>
 </html>
