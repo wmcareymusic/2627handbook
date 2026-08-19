@@ -325,6 +325,7 @@ img { max-width: 100%; display: block; }
 .guide .chip:hover { border-color: #ff5f86; color: #ffd7e1; }
 
 .guide-answer { margin-top: 1.5rem; }
+.guide-answer:empty { margin-top: 0; }
 @media (min-width: 60rem) {
   .guide-layout {
     display: grid;
@@ -339,6 +340,7 @@ img { max-width: 100%; display: block; }
   .guide-suggest p { margin-bottom: 0.4rem; }
   .guide .chip { font-size: 0.74rem; padding: 0.34rem 0.55rem; }
   .guide-answer { grid-column: 1 / -1; margin-top: 1.15rem; }
+.guide-answer:empty { margin-top: 0; }
 }
 .answer-card {
   background: #221e1b;
