@@ -387,6 +387,14 @@ img { max-width: 100%; display: block; }
 .answer-actions .btn { border-color: #554e47; color: #f0ebe6; }
 .answer-actions .btn:hover { background: #fff; color: var(--ink); border-color: #fff; }
 .related { font-size: 0.85rem; color: #b9b1a9; }
+.related a {
+  color: #ffb3c6;
+  text-decoration-color: #554e47;
+}
+.related a:hover {
+  color: #ffffff;
+  text-decoration-color: #ffffff;
+}
 .related ul { list-style: none; padding: 0; margin: 0.45rem 0 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
 .related .btn,
 .related button {
