@@ -661,3 +661,12 @@ figure { margin-inline: 0; }
   details.official > summary { display: none; }
   .official-body { border: 0; }
 }
+@media (max-width: 48rem) {
+  .hero-figure img,
+  .band img,
+  .degree-strip img,
+  .figure img {
+    height: auto !important;
+    object-fit: cover !important;
+  }
+}
