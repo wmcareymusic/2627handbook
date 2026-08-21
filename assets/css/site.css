@@ -664,3 +664,24 @@ figure { margin-inline: 0; }
   details.official > summary { display: none; }
   .official-body { border: 0; }
 }
+.person {
+  padding-block: 1.6rem;
+  border-bottom: 1px solid var(--line-soft);
+  display: grid;
+  gap: 0.9rem;
+}
+.person--photo { grid-template-columns: 84px minmax(0, 1fr); align-items: start; }
+.person img { width: 84px; height: 84px; object-fit: cover; border-radius: 50%; }
+.person .name { font-weight: 600; font-size: 1.05rem; }
+.person .role { color: var(--red-dark); font-size: 0.85rem; font-weight: 500; margin-top: 0.15rem; }
+.person .degrees {
+  font-family: var(--serif);
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+.person .contact { margin-top: 0.6rem; font-size: 0.88rem; display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; }
+.person .contact a { text-decoration: none; }
+.person .contact a:hover { text-decoration: underline; }
