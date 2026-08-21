@@ -82,6 +82,10 @@ body {
   max-width: 84px !important; 
   object-fit: cover !important; 
   border-radius: 50% !important; 
+  -webkit-clip-path: circle(50% at 50% 50%) !important;
+  clip-path: circle(50% at 50% 50%) !important;
+  display: block !important;
+  overflow: hidden !important;
 }
 .person .name { font-weight: 600; font-size: 1.05rem; }
 .person .role { color: var(--red-dark); font-size: 0.85rem; font-weight: 500; margin-top: 0.15rem; }
