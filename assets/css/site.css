@@ -698,3 +698,19 @@ figure { margin-inline: 0; }
 .person .contact { margin-top: 0.6rem; font-size: 0.88rem; display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; }
 .person .contact a { text-decoration: none; }
 .person .contact a:hover { text-decoration: underline; }
+
+.hero-figure img,
+.band img,
+.degree-strip img,
+.figure img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  -webkit-clip-path: inset(0 round 12px) !important;
+  clip-path: inset(0 round 12px) !important;
+}
+
+.hero-figure img { aspect-ratio: 16 / 9 !important; }
+.band img { aspect-ratio: 21 / 9 !important; }
+.degree-strip img { aspect-ratio: 3 / 4 !important; }
+.figure img { aspect-ratio: 4 / 3 !important; }
